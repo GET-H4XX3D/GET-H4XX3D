@@ -26,7 +26,9 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/k9tr38.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
-        $\color{#FE2811}{\textsf{<}}$ [faggot pawn](https://github.com/UNLEASH-NOLI) $\color{#FE2811}{\textsf{3}}$<br>
+        $\color{#FE2811}{\textsf{<}}$ [faggot](https://github.com/UNLEASH-NOLI) $\color{#FE2811}{\textsf{3}}$<br>
+        $\color{#FE2811}{\textsf{⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯}}$<br>
+        $\color{#FE2811}{\textsf{pawns:ㅤ}}$ [@VlSCARTE](https://github.com/VlSCARTE)ㅤ[@RUST-010](https://github.com/RUST-010)ㅤ[@call-the-d0ctor](https://github.com/call-the-d0ctor)<br>
         ㅤ<br>
       </th>
     </table>
