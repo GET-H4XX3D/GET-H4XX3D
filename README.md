@@ -26,7 +26,7 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/k9tr38.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
-        [faggot pawn](https://github.com/UNLEASH-NOLI)<br>
+        $\color{#FE2811}{\textsf{<}}$ [faggot pawn](https://github.com/UNLEASH-NOLI) $\color{#FE2811}{\textsf{3}}$<br>
         ㅤ<br>
       </th>
     </table>
