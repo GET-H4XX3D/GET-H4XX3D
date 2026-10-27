@@ -20,8 +20,8 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/4b0sgk.png" width="150" height="~" alt="BURGER"><br>
         ㅤ<br>
-        $\color{#FE2811}{\textsf{007n7}}$ $\color{#B8904B}{\textsf{ㅤ·ㅤ}}$ $\color{#FE2811}{\textsf{SEVEN}}$ $\color{#B8904B}{\textsf{ㅤ·ㅤ}}$ $\color{#FE2811}{\textsf{SEV}}$<br>
-        $\color{#375450}{\textsf{she/himㅤany terms}}$<br>
+        $\color{#FE2811}{\textsf{007n7}}$ $\color{#375450}{\textsf{ㅤ·ㅤ}}$ $\color{#FE2811}{\textsf{SEVEN}}$ $\color{#375450}{\textsf{ㅤ·ㅤ}}$ $\color{#FE2811}{\textsf{SEV}}$<br>
+        $\color{#B8904B}{\textsf{she/himㅤany terms}}$<br>
         [atabook](https://super-h4ck3r-3000.atabook.org)<br>
         ㅤ<br>
         <img src="https://files.catbox.moe/k9tr38.png" width="~" height="150" alt="BANNER"><br>
