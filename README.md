@@ -22,7 +22,7 @@
         ㅤ<br>
         $\color{#FE2811}{\textsf{007n7}}$ $\color{#375450}{\textsf{ㅤ·ㅤ}}$ $\color{#FE2811}{\textsf{SEVEN}}$ $\color{#375450}{\textsf{ㅤ·ㅤ}}$ $\color{#FE2811}{\textsf{SEV}}$<br>
         $\color{#B8904B}{\textsf{she/himㅤ19ㅤany terms}}$<br>
-        [atabook](https://super-h4ck3r-3000.atabook.org)<br>
+        [新book](https://super-h4ck3r-3000.atabook.org)<br>
         ㅤ<br>
         <img src="https://files.catbox.moe/k9tr38.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
