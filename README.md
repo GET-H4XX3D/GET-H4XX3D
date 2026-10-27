@@ -16,7 +16,7 @@
     <tr align="center"></tr>
       <th>
         ㅤ<br>
-        <img src="https://api.visitorbadge.io/api/visitors?path=GET-H4XX3D&label=team c00lkidd&labelColor=000000&countColor=000000&style=flat"><br>
+        <img src="https://api.visitorbadge.io/api/visitors?path=GET-H4XX3D&label=team c00lkidd&labelColor=FE2811&countColor=FE2811&style=flat"><br>
         ㅤ<br>
         <img src="https://files.catbox.moe/4b0sgk.png" width="150" height="~" alt="BURGER"><br>
         ㅤ<br>
