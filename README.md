@@ -26,7 +26,7 @@
         ㅤ<br>
         <img src="https://files.catbox.moe/k9tr38.png" width="~" height="150" alt="BANNER"><br>
         ㅤ<br>
-        [gayass pawn](https://github.com/UNLEASH-NOLI)<br>
+        [faggot pawn](https://github.com/UNLEASH-NOLI)<br>
         ㅤ<br>
       </th>
     </table>
